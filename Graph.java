@@ -286,7 +286,7 @@ public class Graph {
     public static void main(String[] args) throws Exception {
         // initialize graph and open file to read from
         Graph g = new Graph();
-        Scanner sc = new Scanner(new File("cop3503-asn2-input.txt"));
+        Scanner sc = new Scanner(new File("input.txt"));
         //cop3503-asn2-input
 
 
@@ -313,7 +313,7 @@ public class Graph {
 
         //printing out to file
         try {
-            PrintWriter wr = new PrintWriter("cop3503-asn2-output-Anisi-Mohammad.txt");
+            PrintWriter wr = new PrintWriter("output.txt");
 
             //function 1
             wr.println("Dijkstra\n");
