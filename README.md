@@ -4,4 +4,4 @@ A Java implementation of a graphing program that supports **Dijktras** and **Bel
 
 - `Graph.java` contains the hardcoded input file that read the numbers needed to perform both algorithms.
 
-✅ All both cases pass and have the correct output.
+✅  Both test cases pass and have the correct output.
